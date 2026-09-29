@@ -1,0 +1,53 @@
+<script type='application/ld+json'>
+{	
+"@context": "https://www.schema.org",
+"@type": "localbusiness",
+"name": "Nasikia Safaris",
+"telephone": "+255789371525",
+"url": "https://www.nasikiasafaris.com/",
+"logo": "https://www.nasikiasafaris.com/img/NASIKIA.webp",
+"image": "https://www.nasikiasafaris.com/img/Vehicle-01-scaled.webp",
+"pricerange": "Affordable",
+"description": "Discover breathtaking Tanzania safari tours. Explore the Serengeti, Ngorongoro Crater, and Kilimanjaro with expert guides!",
+"address": {
+  "@type": "PostalAddress",
+"streetAddress": "2135, Arusha",
+  "postalCode": "2135",
+  "addressCountry": "Tanzania"
+},
+"geo": {
+  "@type": "GeoCoordinates",
+  "latitude": "-3.3780915",
+  "longitude": "36.6936708"
+},
+"hasMap": "https://maps.app.goo.gl/PWE3cxjJTL9fRd9y8", 
+"openingHours": "Mo, Tu, We, Th, Fr, Sa, Su Open 24 hours",
+   "contactPoint": {
+   "@type": "PostalAddress",
+   "contactType": "Customer Service",
+   "telephone": "+255789371525"
+},
+ "aggregateRating" : {
+    "@type" : "AggregateRating",
+    "ratingValue" : "5",
+    "bestRating" : "5",
+    "worstRating" : "1",
+    "ratingCount" : "8"
+  },
+  "review" : {
+    "@type" : "Review",
+    "author" : {
+      "@type" : "Person",
+      "name" : "Erika"
+    },
+    "datePublished" : "2024-06-16",
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "5",
+      "bestRating" : "5",
+      "worstRating" : "1"
+    },
+    "reviewBody" : "Nasikia Safaris helped us when our rental car through another operator broke down. We were in Ngorongoro and the owner quickly and pragmatically drove us 30km to the Ngorongoro Gate. Nice friendly owner!"
+  }
+ }
+	</script>
